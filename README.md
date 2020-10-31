@@ -6,9 +6,9 @@
 
 📚 I am currently learning anything and everything that I can 😂. Exploring finance , ML and designing rigth now.
 
-🏆 I am new to open soure and recently cpmpleted **Hacktoberfest 2020** and would love to contribute to open source organisations !
+🏆 I am new to open soure and recently completed **Hacktoberfest 2020** and would love to contribute to open source organisations !
 
-📹 I have over 1300 subscribers on youtube with 60k views on my channel.
+📹 I have over **1300 subscribers** on youtube with **60k views** on my channel.
 
 ---
 ## Connect with me 
@@ -22,7 +22,7 @@ Do **follow me** ! I am sure you won't regret XD
 
 
 ---
-Here's my Github Statistics
+## Here's my Github Statistics
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DevanshD3&show_icons=true&theme=radical)
 
