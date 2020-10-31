@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DevanshD3&show_icons=true&theme=radical)
 <!--
 **DevanshD3/DevanshD3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
