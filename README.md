@@ -8,7 +8,7 @@
 
 🏆 I am new to open soure and recently completed **Hacktoberfest 2020** and would love to contribute to open source organisations !
 
-📹 I have over **1300 subscribers** on youtube with **60k views** on my channel.
+📹 I have over **1300 subscribers** on youtube with **65k views** on my channel.
 
 ---
 ## Connect with me 
