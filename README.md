@@ -10,6 +10,7 @@
 
 📹 I have over **1300 subscribers** on youtube with **65k views** on my channel.
 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ---
 ## Connect with me 
 
@@ -26,7 +27,7 @@ Do **follow me** ! I am sure you won't regret XD
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DevanshD3&show_icons=true&theme=radical)
 
------------------------------------------------------------------------------------------------------------------------------------------
+----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshD3)](https://github.com/anuraghazra/github-readme-stats)
 
 
