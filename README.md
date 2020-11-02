@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on projects based on **Computer Vision , Web Development (MERN dev), Python Automation and Quantitative Finance**.
 
-📚 I am currently learning anything and everything that I can 😂. Exploring finance , ML and designing rigth now.
+📚 I am currently learning anything and everything that I can 😂. Exploring finance , ML and designing right now.
 
 🏆 I am new to open soure and recently completed **Hacktoberfest 2020** and would love to contribute to open source organisations !
 
