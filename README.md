@@ -2,13 +2,13 @@
 
 #### I am a CS sophomore at BITS PILANI , K.K. Birla Goa Campus!
 
-🔭 I’m currently working on projects based on **Computer Vision , Web Development (MERN dev), Python Automation and Quantitative Finance**.
+🔭 I’m currently working on projects based on **NLP, Computer Vision , Web Development (MERN dev), Python Automation and Quantitative Finance**.
 
 📚 I am currently learning anything and everything that I can 😂. Exploring finance , ML and designing right now.
 
 🏆 I am new to open soure and recently completed **Hacktoberfest 2020** and would love to contribute to open source organisations !
 
-📹 I have over **1380 subscribers** on youtube with **75k views** on my channel.
+📹 I have over **1920 subscribers** on youtube with **100k+ views** on my channel.
 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
