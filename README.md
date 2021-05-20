@@ -8,7 +8,7 @@
 
 🏆 I am new to open soure and recently completed **Hacktoberfest 2020** and would love to contribute to open source organisations !
 
-📹 I have over **20010 subscribers** on youtube with **100k+ views** on my channel.
+📹 I have over **2250 subscribers** on youtube with **100k+ views** on my channel.
 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
