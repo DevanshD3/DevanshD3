@@ -1,6 +1,6 @@
 # Hi there I am Devansh Dixit👋
 
-#### I am a CS sophomore at BITS PILANI , K.K. Birla Goa Campus!
+#### I am a CS final year undergrad at BITS PILANI , K.K. Birla Goa Campus!
 
 🔭 I’m currently working on projects based on **NLP, Computer Vision , Web Development (MERN dev), Python Automation and Quantitative Finance**.
 
